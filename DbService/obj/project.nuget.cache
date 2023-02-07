@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GxMs+ajAe0vEnqTGAhOTaj95d8xCNFmxPlrTDSiCxDbTELhpwysOBdZhiA6Utnae1LhzYPVRJC/fv+EIDoU8oA==",
+  "dgSpecHash": "qDeuLY41kCHz6nAPKI3LKkGgbbq08r7joxj1jHz5G5u8fRcfRvJoB9xxfsfDA8WLSQmz3xvdbB4++54G/8RF8Q==",
   "success": true,
   "projectFilePath": "/Users/clementjaunay/RiderProjects/MasterKnight/DbService/DbService.csproj",
   "expectedPackageFiles": [
@@ -24,9 +24,7 @@
     "/Users/clementjaunay/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.2/pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "/Users/clementjaunay/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/Users/clementjaunay/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "/Users/clementjaunay/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/Users/clementjaunay/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/clementjaunay/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+    "/Users/clementjaunay/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

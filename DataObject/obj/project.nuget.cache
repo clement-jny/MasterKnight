@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3h0PJjO/8yQN/v3U57MgXwbUjlB+PN6WuaoJui65eU6XHniqhTXmG9Q9lplNcfkphJe8fHuKeilZpqnt3ryhDQ==",
+  "dgSpecHash": "HEglfjd3w9wF4x7GcafRZZSVesPseNLiCdO3JnXcyKJmoPlbu6/SJM2S0qJya4aiyetogixtApWCyiGqb/sspQ==",
   "success": true,
   "projectFilePath": "/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/DataObject.csproj",
-  "expectedPackageFiles": [
-    "/Users/clementjaunay/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/clementjaunay/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
