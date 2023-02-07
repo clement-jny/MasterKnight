@@ -1,0 +1,17 @@
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/bin/Debug/net6.0/DbService.deps.json
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/bin/Debug/net6.0/DbService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/bin/Debug/net6.0/DbService.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/bin/Debug/net6.0/DataObject.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/bin/Debug/net6.0/DataObject.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.csproj.AssemblyReference.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.AssemblyInfoInputs.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.AssemblyInfo.cs
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.csproj.CoreCompileInputs.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.csproj.CopyComplete
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/refint/DbService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/ref/DbService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/bin/Debug/net6.0/DbService.runtimeconfig.json
+/Users/clementjaunay/RiderProjects/MasterKnight/DbService/obj/Debug/net6.0/DbService.genruntimeconfig.cache

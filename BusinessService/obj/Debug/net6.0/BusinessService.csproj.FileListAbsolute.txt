@@ -1,0 +1,17 @@
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/BusinessService.deps.json
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/BusinessService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/BusinessService.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/DataObject.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/DbService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/DbService.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/bin/Debug/net6.0/DataObject.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.csproj.AssemblyReference.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.AssemblyInfoInputs.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.AssemblyInfo.cs
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.csproj.CoreCompileInputs.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.csproj.CopyComplete
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/refint/BusinessService.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/BusinessService.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/BusinessService/obj/Debug/net6.0/ref/BusinessService.dll

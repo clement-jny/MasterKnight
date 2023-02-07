@@ -1,0 +1,12 @@
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/bin/Debug/net6.0/DataObject.deps.json
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/bin/Debug/net6.0/DataObject.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/bin/Debug/net6.0/DataObject.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.csproj.AssemblyReference.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.AssemblyInfoInputs.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.AssemblyInfo.cs
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.csproj.CoreCompileInputs.cache
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/refint/DataObject.dll
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/DataObject.pdb
+/Users/clementjaunay/RiderProjects/MasterKnight/DataObject/obj/Debug/net6.0/ref/DataObject.dll
